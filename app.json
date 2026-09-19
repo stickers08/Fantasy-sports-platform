@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Fantasy Hockey Intelligence",
+    "slug": "fantasy-hockey-intelligence",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": { "backgroundColor": "#09111f" },
+    "ios": { "supportsTablet": true },
+    "android": { "adaptiveIcon": { "backgroundColor": "#09111f" } }
+  }
+}
